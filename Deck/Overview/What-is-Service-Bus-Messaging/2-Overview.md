@@ -138,7 +138,7 @@ Azure Service Bus is a `_____`-as-a-service (`_____`) offering
 
 %
 
-Azure Service Bus is a Platform-as-a-service (PaaS) offering
+Azure Service Bus is a **Platform**-as-a-service (**PaaS**) offering
 
 ##
 

@@ -24,11 +24,11 @@ Messages are delivered in **pull** mode, only delivering messages when requested
 
 ##
 
-You can also use **topics** to send and receive messages. While a queue is often used for point-to-point communication, **topics** are useful in publish/subscribe scenarios.
+You can use `_____` to send and receive messages. While a queue is often used for point-to-point communication, `_____` are useful in publish/subscribe scenarios.
 
 %
 
-You can also use `_____` to send and receive messages. While a queue is often used for point-to-point communication, `_____` are useful in publish/subscribe scenarios.
+You can use **topics** to send and receive messages. While a queue is often used for point-to-point communication, **topics** are useful in publish/subscribe scenarios.
 
 ##
 
@@ -102,19 +102,19 @@ Service Bus supports a **dead-letter queue** (**DLQ**) to hold messages that can
 
 ##
 
-You can submit messages to a queue or topic for `_____`. For example, to schedule a job to become available for processing by a system at a certain time.
+You can submit messages to a queue or topic for `_____` processing. For example, to schedule a job to become available for processing by a system at a certain time.
 
 %
 
-You can submit messages to a queue or topic for **delayed processing**. For example, to schedule a job to become available for processing by a system at a certain time.
+You can submit messages to a queue or topic for **delayed** processing. For example, to schedule a job to become available for processing by a system at a certain time.
 
 ##
 
-When a queue or subscription client receives a message that it's willing to process, but for which processing isn't currently possible because of special circumstances within the application, the entity can `_____` to a later point. The message remains in the queue or subscription, but it's set aside.
+When a queue or subscription client receives a message that it's willing to process, but for which processing isn't currently possible because of special circumstances within the application, the entity can defer `_____` of the message to a later point. The message remains in the queue or subscription, but it's set aside.
 
 %
 
-When a queue or subscription client receives a message that it's willing to process, but for which processing isn't currently possible because of special circumstances within the application, the entity can **defer retrieval of the message** to a later point. The message remains in the queue or subscription, but it's set aside.
+When a queue or subscription client receives a message that it's willing to process, but for which processing isn't currently possible because of special circumstances within the application, the entity can defer **retrieval** of the message to a later point. The message remains in the queue or subscription, but it's set aside.
 
 ##
 
@@ -126,11 +126,11 @@ A **transaction** groups two or more operations together into an execution scope
 
 ##
 
-Subscribers can define which messages they want to receive from a topic. These messages are specified in the form of one or more `_____`. For each matching rule condition, the subscription produces a copy of the message, which may be differently annotated for each matching rule.
+Subscribers can define which messages they want to receive from a topic. These messages are specified in the form of one or more `_____` subscription rules. For each matching rule condition, the subscription produces a copy of the message, which may be differently annotated for each matching rule.
 
 %
 
-Subscribers can define which messages they want to receive from a topic. These messages are specified in the form of one or more **named subscription rules**. For each matching rule condition, the subscription produces a copy of the message, which may be differently annotated for each matching rule.
+Subscribers can define which messages they want to receive from a topic. These messages are specified in the form of one or more **named** subscription rules. For each matching rule condition, the subscription produces a copy of the message, which may be differently annotated for each matching rule.
 
 ##
 

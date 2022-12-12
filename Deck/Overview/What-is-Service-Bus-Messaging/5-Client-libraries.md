@@ -2,11 +2,11 @@
 
 Fully supported Service Bus client libraries are available via the Azure SDK.
 
-- `_____` (.NET)
-- `_____` (Java)
-- `_____` (Java JMS 2.0)
-- `_____` (JS and TypeScript)
-- `_____` (Python)
+- `_____` for .NET
+- `_____` for Java
+- `_____` for Java JMS 2.0
+- `_____` for JavaScript and TypeScript
+- `_____` for Python
 
 %
 
