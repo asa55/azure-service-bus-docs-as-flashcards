@@ -1,3 +1,7 @@
+**Update: Archiving due to superceded by `azure-docs-as-flashcards` project.**
+
+---
+
 # azure-service-bus-docs-as-flashcards
 
 This is one of many `*-docs-as-flashcards` projects.
