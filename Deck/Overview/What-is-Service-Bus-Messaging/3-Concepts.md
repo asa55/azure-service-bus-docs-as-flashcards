@@ -78,11 +78,11 @@ A Service Bus namespace is your own capacity slice of a large cluster made up of
 
 ##
 
-To realize a first-in, first-out (FIFO) guarantee in Service Bus, use sessions. `_____` enable joint and ordered handling of unbounded sequences of related messages.
+To realize a first-in, first-out (FIFO) guarantee in Service Bus, use `_____`. Message `_____` enable joint and ordered handling of unbounded sequences of related messages.
 
 %
 
-To realize a first-in, first-out (FIFO) guarantee in Service Bus, use sessions. **Message sessions** enable joint and ordered handling of unbounded sequences of related messages.
+To realize a first-in, first-out (FIFO) guarantee in Service Bus, use **sessions**. Message **sessions** enable joint and ordered handling of unbounded sequences of related messages.
 
 ##
 
